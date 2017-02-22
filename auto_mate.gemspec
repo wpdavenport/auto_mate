@@ -19,6 +19,7 @@ Gem::Specification.new do |gem|
 
   gem.files = Dir['{lib}/**/*']
   gem.require_paths = %w[ lib ]
+  gem.default_executable = 'auto_mate'
 
   # gem.add_development_dependency 'bundler', '~> 1'
   # gem.add_development_dependency 'rake'

@@ -70,9 +70,11 @@ FIXTURES = AutoMate.fixtures
 ```
 
 Structure:
+```bash
 - spec
   |- data
      |- dev.yml
+```
 
 Example: dev.yml
 ```bash
