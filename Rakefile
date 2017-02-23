@@ -11,5 +11,3 @@ rescue Bundler::BundlerError => e
 end
 require 'rake'
 
-task :default => :test
-
